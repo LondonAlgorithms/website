@@ -7,19 +7,21 @@ Please provide the following at least 2 weeks in advance of the event:
 - A good quality photograph of yourself
 - A one-sentence abstract that answers the question: what will I learn from this presentation?
 - Links to any reading material students should review beforehand
-- Email these to danieljohngrant@gmail.com
+- Some excercises that students can work through together (e.g. https://github.com/LondonAlgorithms/PokerHands)
+- Email these to danieljohngrant@gmail.com or post them to the [Slack group](https://github.com/LondonAlgorithms/PokerHands) - ideally you'll share your exercises a little while before the event and get feedback (this will help iron out any issues or stumbling blocks)
+
 
 ---
 
 ## Talk prep
 
-Remember, that your audience will have mixed abilities. Some will have will have never studied algorithms before whilst others may be Maths grads!
+Remember, that you will be talking to an audience of mixed abilities. Some will have will be unfamiliar with advanced Maths and CS concepts. 
+
+Try to:
 
 - Keep the presentation as accessible as possible
-- Make the first challenge easy and let each subsequent challenge build upon the former
+- Make the first challenge easy (so everyone gets a foot in the dorr) and let subsequent challenges become more challenging
 - Provide helpers to abstract away any code that it is not related to the algorithm or too complicated for a 1 hour dojo
-
-However, clever you think members of the audience are going to be, keep your presentation simple and don't over-prepare!
 
 Here's a few tips to keep your presentation accessible:
 
@@ -27,6 +29,7 @@ Here's a few tips to keep your presentation accessible:
 - Prefer programming notation over mathematical notation
 - Explain difficult concepts slowly and repeat your explanation
 - Ask questions and extract answers out of the group
+
 
 ---
 
@@ -37,3 +40,4 @@ Here's a few tips to keep your presentation accessible:
 - There will be a flip chart available, feel free to use it!
 - Your talk will be recorded
 - If you use f.lux, remember to disable it prior to delivering your talk
+- Good luck!
